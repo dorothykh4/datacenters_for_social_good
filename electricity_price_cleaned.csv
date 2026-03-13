@@ -1,0 +1,63 @@
+state,electricity_price
+New England,18.79
+Connecticut,19.13
+Maine,17.15
+Massachusetts,20.04
+New Hampshire,18.6
+Rhode Island,23.9
+Vermont,13.21
+Middle Atlantic,10.74
+New Jersey,13.95
+New York,10.44
+Pennsylvania,10.4
+East North Central,9.19
+Illinois,10.1
+Indiana,8.77
+Michigan,8.68
+Ohio,9.33
+Wisconsin,8.56
+West North Central,7.55
+Iowa,6.4
+Kansas,7.85
+Minnesota,9.17
+Missouri,7.85
+Nebraska,7.35
+North Dakota,7.37
+South Dakota,8.45
+South Atlantic,8.25
+Delaware,10.58
+District of Columbia,17.31
+Florida,8.79
+Georgia,7.53
+Maryland,13.59
+North Carolina,7.91
+South Carolina,7.62
+Virginia,9.35
+West Virginia,8.07
+East South Central,7.13
+Alabama,7.8
+Kentucky,6.98
+Mississippi,7.47
+Tennessee,6.24
+West South Central,6.47
+Arkansas,6.43
+Louisiana,5.96
+Oklahoma,5.96
+Texas,6.67
+Mountain,7.21
+Arizona,7.22
+Colorado,8.83
+Idaho,6.78
+Montana,6.34
+Nevada,7.32
+New Mexico,5.13
+Utah,7.89
+Wyoming,8.3
+Pacific Contiguous,14.05
+California,19.86
+Oregon,8.08
+Washington,6.92
+Pacific Noncontiguous,29.02
+Alaska,19.79
+Hawaii,32.77
+U.S. Total,8.53
