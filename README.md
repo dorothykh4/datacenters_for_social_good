@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project analyzes the geographic distribution of U.S. data centers in relation to electricity costs and renewable energy infrastructure. By combining geospatial data on data center locations with state-level electricity pricing and renewable power plant locations, the project evaluates whether existing clusters align with economically and environmentally favorable regions — and identifies candidates for responsible future expansion.
+This project analyzes the geographic distribution of U.S. data centers in relation to electricity costs and renewable energy infrastructure. By combining geospatial data on data center locations with state-level electricity pricing and renewable power plant locations, the project evaluates whether existing clusters align with economically and environmentally favorable regions, and identifies candidates for responsible future expansion.
 
 ## Repository Structure
 
